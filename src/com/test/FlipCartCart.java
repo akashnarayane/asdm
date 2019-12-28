@@ -11,7 +11,7 @@ public class FlipCartCart {
 		ChromeDriver chrome = new ChromeDriver();
 		
 		chrome.get("https://www.flipkart.com/");
-		Thread.sleep(4000);
+		Thread.sleep(3000);
 		
 		
 	}
